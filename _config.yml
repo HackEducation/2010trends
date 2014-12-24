@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Top Ed-Tech Trends 2010"
+title: "Top Ed-Tech Trends of 2010"
 description: > # this means to ignore newlines until "email:"
    A Hack Education Project
 
