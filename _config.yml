@@ -22,10 +22,15 @@ paginate:	5
 paginate_path: "/blog/page:num"
 permalink: /:categories/:year/:month/:day/:title 
 
+url: "http://2010trends.hackeducation.com" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@hackeducation'
+
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/audreywatters
+    url:	https://twitter.com/hackeducation
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -34,7 +39,7 @@ social:
   - icon:	facebook
     url:	https://facebook.com/history.future.education
     desc: Like me on facebook
-    share_url: http://www.facebook.com/sharer.php
+    share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
@@ -53,7 +58,7 @@ social:
     share_link:
 
   - icon: rss
-    url:  http://hackeducation.com/feed.xml
+    url:  http://2010trends.hackeducation.com/feed.xml
     desc: Subscribe
     share_url:
     share_title:
