@@ -39,9 +39,9 @@ social:
   - icon:	facebook
     url:	https://facebook.com/history.future.education
     desc: Like me on facebook
-    share_url: https://www.facebook.com/dialog/share?
-    share_title: ?t=
-    share_link: "&amp;u="
+    share_url: 
+    share_title: 
+    share_link: 
 
   - icon:	github
     url:	https://github.com/audreywatters
