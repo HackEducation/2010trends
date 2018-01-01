@@ -47,28 +47,12 @@ social:
   - icon:	github
     url:	https://github.com/hackeducation/2010trends
     desc: Fork me on github
-    share_url: 
-    share_title:
-    share_link:
-
- # - icon:	google-plus
- #   url:	
- #   desc:	
- #   share_url:
- #   share_title:
- #   share_link:
 
   - icon: rss
     url:  http://2010trends.hackeducation.com/feed.xml
     desc: Subscribe
-    share_url:
-    share_title:
-    share_link:
 
   - icon: envelope
     url:  mailto:mail@audreywatters.com
-    desc: Email
-    share_url:
-    share_title:
-    share_link:    
+    desc: Email  
   
